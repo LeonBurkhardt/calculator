@@ -18,6 +18,8 @@ START-OF-SELECTION.
   result = par_a + par_b.
   "test
   "test2
+  "test3
+
 
 END-OF-SELECTION.
 
