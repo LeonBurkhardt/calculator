@@ -16,6 +16,7 @@ DATA result TYPE i.
 START-OF-SELECTION.
 
   result = par_a + par_b.
+  "test
 
 END-OF-SELECTION.
 
