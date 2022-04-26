@@ -17,6 +17,7 @@ START-OF-SELECTION.
 
   result = par_a + par_b.
   "test
+  "test2
 
 END-OF-SELECTION.
 
